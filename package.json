@@ -1,0 +1,23 @@
+{
+  "name": "api_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-srv": "node "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawangaitonde/api_proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawangaitonde/api_proj/issues"
+  },
+  "homepage": "https://github.com/pawangaitonde/api_proj#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
